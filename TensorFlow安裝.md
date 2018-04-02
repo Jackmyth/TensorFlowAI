@@ -9,6 +9,7 @@
 
 安裝tensorflow: pip install tensorflow
 若TensorFlow無法安裝打這行安裝
+
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.1.0-cp35-cp35m-win_amd64.whl
 
 安裝 keras:  pip install keras
