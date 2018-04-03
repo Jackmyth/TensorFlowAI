@@ -34,7 +34,10 @@ TensorFlow是一款Google推出用於機器學習的開源軟體庫，官方表�
 
 
 若要用GPU加速TensorFlow需滿足以下條件：
+
 支援CUDA Toolkit 的顯卡
+
 支援CUDA Toolkit 的顯卡驅動
+
 CUDA Toolkit 
 cuDN 
