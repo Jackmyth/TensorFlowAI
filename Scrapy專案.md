@@ -17,7 +17,7 @@ pip3 install beautifulsoup4
 pip3 install pypiwin32
 ```
 ```
-## 首先建立專案：
+首先建立專案：
 
 scrapy startproject ptt
 
