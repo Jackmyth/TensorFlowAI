@@ -9,6 +9,8 @@
 
 離開anaconda 虛擬環境:   deactivate tensorflow
 
+https://www.facebook.com/notes/taiwan-hadoop-user-group/tensorflow-%E5%AE%89%E8%A3%9D-without-gpu-%E5%BE%9E%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E8%A7%92%E5%BA%A6%E5%87%BA%E7%99%BC/1191780550931318/
+
 安裝tensorflow: pip install tensorflow
 
 若TensorFlow無法安裝打這行安裝
