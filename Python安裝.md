@@ -20,3 +20,5 @@ https://pygame.hackersir.org/Lessons/01/Python_install.html
 7.預設都勾取，按下一步
 
 8.按Install，如果出現UAC警告，按確定
+
+http://picbear.club/min_young777
