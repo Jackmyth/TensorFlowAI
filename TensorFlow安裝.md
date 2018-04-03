@@ -15,7 +15,7 @@ pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorfl
 
 安裝 keras:  pip install keras
 
-# 於Win10下安裝TensorFlow並用GPU做加速
+# Win10下安裝TensorFlow並用GPU做加速
 
 https://rreadmorebooks.blogspot.tw/2017/04/win10tensorflowgpu.html
 
