@@ -1,4 +1,10 @@
 # Scrapy專案
+安裝 Twisted-17.9.0-cp35-cp35m-win_amd64.whl，就可以安裝scrapy
+http://nukc.listenlite.com/2017/04/19/install-scrapy-VC-14-0-is-required/
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+
+pip3 install Twisted-17.9.0-cp35-cp35m-win_amd64.whl
 
 首先建立專案：
 
