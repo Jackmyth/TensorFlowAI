@@ -5,8 +5,8 @@
 
 命令提示字元:  conda create --name tensorflow python=3.5 anaconda
 
-啟動anaconda 虛擬環境:   activate tensorflow
-
+啟動anaconda 虛擬環境:   activate tensorflow
+離開anaconda 虛擬環境:   deactivate tensorflow
 安裝tensorflow: pip install tensorflow
 
 若TensorFlow無法安裝打這行安裝
