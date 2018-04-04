@@ -13,3 +13,14 @@ Download Installers for Windows 10 x86_64
 Installer Type  exe(local)
 
 選 Base Installer 下載安裝
+
+
+安裝NVIDIA cuDNN
+
+https://developer.nvidia.com/cudnn
+
+https://developer.nvidia.com/developer-program/signup
+
+帳號：jack820075@gmail.com
+
+密碼：Love52014
