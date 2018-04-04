@@ -24,3 +24,7 @@ https://developer.nvidia.com/developer-program/signup
 帳號：jack820075@gmail.com
 
 密碼：Love52014
+
+下載Win10 cudnn-9.1-windows10-x64-v7.1
+
+https://developer.nvidia.com/rdp/cudnn-download
