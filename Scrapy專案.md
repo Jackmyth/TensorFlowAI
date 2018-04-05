@@ -30,5 +30,9 @@ scrapy crawl ptt -o ptt.json
 scrapy crawl ptt -o ptt.csv
 ```
 ```
-sss
+Python3 Scrapy的csv結果會分成二行
+
+將結果存成json，再線上用Convert JSON to CSV
+
+就可以解決問題
 ```
