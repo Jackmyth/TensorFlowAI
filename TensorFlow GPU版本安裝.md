@@ -61,3 +61,5 @@ D:\>activate tensorflow
 python -m pip install tensorflow-gpu # for Tensorflow **GPU** installation
 
 python -m pip install tensorflow # for Tensorflow **CPU** installation
+
+## [win7 使用anaconda安裝tensorflow並且在jupyter notebook上啟動](https://hk.saowen.com/a/5acf1b92e41cb57e4a297dee186b44d4edefd2209649e521afddcebe950810a9)
