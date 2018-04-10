@@ -28,3 +28,10 @@ https://developer.nvidia.com/developer-program/signup
 下載Win10 cudnn-9.1-windows10-x64-v7.1
 
 https://developer.nvidia.com/rdp/cudnn-download
+
+
+命令提示字元: conda create --name tensorflow-gpu python=3.5 anaconda
+
+啟動anaconda 虛擬環境:   activate tensorflow-gpu
+
+離開anaconda 虛擬環境: deactivate tensorflow-gpu
