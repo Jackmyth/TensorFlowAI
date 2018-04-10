@@ -35,3 +35,7 @@ https://developer.nvidia.com/rdp/cudnn-download
 啟動anaconda 虛擬環境:   activate tensorflow-gpu
 
 離開anaconda 虛擬環境: deactivate tensorflow-gpu
+
+安裝tensorflow: pip install tensorflow-gpu
+
+安裝 keras: pip install keras
