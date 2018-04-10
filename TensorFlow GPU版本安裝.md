@@ -49,3 +49,9 @@ Anaconda要裝個人使用，tensorflow-gpu虛擬環境中的Jupyter Notebook、
 C:\Users\jack\Anaconda3\envs
 
 ## [如何在Jupyter Notebook中使用Tensorflow](https://blog.csdn.net/xue_wenyuan/article/details/51545845)
+
+https://blog.csdn.net/index20001/article/details/73555182
+
+D:\>conda info --envs
+
+D:\>activate tensorflow
