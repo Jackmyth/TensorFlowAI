@@ -40,6 +40,10 @@ https://developer.nvidia.com/rdp/cudnn-download
 
 若tensorflow-gpu套件有模組無法安裝，打以下的指令就可以完整安裝
 
-pip install --upgrade --ignore-installed tensorflow
+pip install --upgrade --ignore-installed tensorflow-gpu
 
 安裝 keras: pip install keras
+
+Anaconda要裝個人使用，tensorflow-gpu虛擬環境中的Jupyter Notebook、Spyder才可以安裝起來
+
+C:\Users\jack\Anaconda3\envs
