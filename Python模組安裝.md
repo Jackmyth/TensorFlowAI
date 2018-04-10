@@ -10,3 +10,9 @@ pip install twstock-1.0.1-py3-none-any.whl
 下載 twstock-1.1.0.tar.gz，將它解壓縮並cd到目錄
 
 python setup.py install
+
+python -m pip install --upgrade pip
+
+安裝word2vec模組
+
+pip install gensim
