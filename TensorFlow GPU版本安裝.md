@@ -55,3 +55,9 @@ https://blog.csdn.net/index20001/article/details/73555182
 D:\>conda info --envs
 
 D:\>activate tensorflow
+
+## [import tensorflow as tf 錯誤時這樣安裝](https://github.com/bhavsarpratik/install_Tensorflow_Windows)
+
+python -m pip install tensorflow-gpu # for Tensorflow **GPU** installation
+
+python -m pip install tensorflow # for Tensorflow **CPU** installation
