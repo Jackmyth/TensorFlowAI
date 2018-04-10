@@ -23,7 +23,7 @@ pip3 install -U gensim
 2.將下載後的維基數據置於與專案同個目錄，再使用`wiki_to_txt.py`從 xml 中提取出維基文章
 
 ```
-python3 wiki_to_txt.py zhwiki-20160820-pages-articles.xml.bz2
+python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
 ```
 *若您採用的不是 8 月 20 號的備份，請更換 `zhwiki-20160820-pages-articles.xml.bz2` 為您採用的備份的檔名。*
 
