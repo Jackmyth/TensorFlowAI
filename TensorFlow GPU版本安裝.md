@@ -47,3 +47,5 @@ pip install --upgrade --ignore-installed tensorflow-gpu
 Anaconda要裝個人使用，tensorflow-gpu虛擬環境中的Jupyter Notebook、Spyder才可以安裝起來
 
 C:\Users\jack\Anaconda3\envs
+
+https://blog.csdn.net/xue_wenyuan/article/details/51545845
