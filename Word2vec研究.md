@@ -8,3 +8,7 @@
 https://www.jianshu.com/p/ec27062bd453
 
 http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/
+
+hanziconv 0.3.2
+
+https://pypi.python.org/pypi/hanziconv
