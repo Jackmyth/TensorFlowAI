@@ -16,3 +16,5 @@ python -m pip install --upgrade pip
 安裝word2vec模組
 
 pip install gensim
+
+pip install matplotlib
