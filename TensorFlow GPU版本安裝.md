@@ -52,9 +52,15 @@ C:\Users\jack\Anaconda3\envs
 
 https://blog.csdn.net/index20001/article/details/73555182
 
-D:\>conda info --envs
+conda info --envs
 
-D:\>activate tensorflow
+activate tensorflow-gpu
+
+conda install ipython
+
+conda install jupyter
+
+conda install Spyder
 
 ## [import tensorflow as tf 錯誤時這樣安裝](https://github.com/bhavsarpratik/install_Tensorflow_Windows)
 
