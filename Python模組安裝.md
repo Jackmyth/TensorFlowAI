@@ -17,4 +17,7 @@ python -m pip install --upgrade pip
 
 pip install gensim
 
+https://stackoverflow.com/questions/24302091/error-when-import-matplotlib-pyplot-as-plt
+
 pip install matplotlib
+
