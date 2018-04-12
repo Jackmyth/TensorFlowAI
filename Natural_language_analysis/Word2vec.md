@@ -122,6 +122,43 @@ if __name__ == "__main__":
 
 ```
 
+```
+2018-04-12 20:20:24,827 : INFO : EPOCH 5 - PROGRESS: at 81.65% examples, 523616 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:25,864 : INFO : EPOCH 5 - PROGRESS: at 82.31% examples, 522715 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:26,869 : INFO : EPOCH 5 - PROGRESS: at 83.26% examples, 522095 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:27,874 : INFO : EPOCH 5 - PROGRESS: at 84.21% examples, 522292 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:28,866 : INFO : EPOCH 5 - PROGRESS: at 85.18% examples, 522418 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:29,905 : INFO : EPOCH 5 - PROGRESS: at 86.11% examples, 522390 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:30,901 : INFO : EPOCH 5 - PROGRESS: at 86.93% examples, 521987 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:31,913 : INFO : EPOCH 5 - PROGRESS: at 87.73% examples, 522151 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:32,915 : INFO : EPOCH 5 - PROGRESS: at 88.62% examples, 522525 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:33,929 : INFO : EPOCH 5 - PROGRESS: at 89.38% examples, 522647 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:34,921 : INFO : EPOCH 5 - PROGRESS: at 90.12% examples, 522469 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:35,937 : INFO : EPOCH 5 - PROGRESS: at 90.81% examples, 522133 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:36,958 : INFO : EPOCH 5 - PROGRESS: at 91.59% examples, 521720 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:37,966 : INFO : EPOCH 5 - PROGRESS: at 92.34% examples, 521548 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:38,972 : INFO : EPOCH 5 - PROGRESS: at 93.25% examples, 521382 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:40,024 : INFO : EPOCH 5 - PROGRESS: at 94.01% examples, 520895 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:41,030 : INFO : EPOCH 5 - PROGRESS: at 94.78% examples, 520839 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:42,044 : INFO : EPOCH 5 - PROGRESS: at 95.61% examples, 521011 words/s, in_qsize 6, out_qsize 0
+2018-04-12 20:20:43,040 : INFO : EPOCH 5 - PROGRESS: at 96.46% examples, 521063 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:44,053 : INFO : EPOCH 5 - PROGRESS: at 97.45% examples, 521194 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:45,065 : INFO : EPOCH 5 - PROGRESS: at 98.31% examples, 521059 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:46,073 : INFO : EPOCH 5 - PROGRESS: at 99.29% examples, 521289 words/s, in_qsize 5, out_qsize 0
+2018-04-12 20:20:46,823 : INFO : worker thread finished; awaiting finish of 2 more threads
+2018-04-12 20:20:46,838 : INFO : worker thread finished; awaiting finish of 1 more threads
+2018-04-12 20:20:46,854 : INFO : worker thread finished; awaiting finish of 0 more threads
+2018-04-12 20:20:46,854 : INFO : EPOCH - 5 : training on 78381132 raw words (75356128 effective words) took 144.5s, 521596 effective words/s
+2018-04-12 20:20:46,854 : INFO : training on a 391905660 raw words (376781688 effective words) took 842.7s, 447135 effective words/s
+2018-04-12 20:20:46,854 : INFO : saving Word2Vec object under word2vec.model, separately None
+2018-04-12 20:20:46,854 : INFO : storing np array 'vectors' to word2vec.model.wv.vectors.npy
+2018-04-12 20:20:53,034 : INFO : not storing attribute vectors_norm
+2018-04-12 20:20:53,034 : INFO : storing np array 'syn1neg' to word2vec.model.trainables.syn1neg.npy
+2018-04-12 20:20:58,000 : INFO : not storing attribute cum_table
+2018-04-12 20:20:59,523 : INFO : saved word2vec.model
+
+```
+![image](https://github.com/Jackmyth/TensorFlowAI/blob/master/pic/Word2vec/3.jpg)
 
 demo.py
 
