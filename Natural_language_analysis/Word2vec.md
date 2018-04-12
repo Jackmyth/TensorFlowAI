@@ -30,5 +30,33 @@ opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
 
 ![image](https://github.com/Jackmyth/TensorFlowAI/blob/master/pic/Word2vec/1.jpg)
 
+jieba詞句分類訓練完，會放在C:\Users\user\AppData\Local\Temp\目錄下
 
+Dumping model to file cache
 
+C:\Users\user\AppData\Local\Temp\jieba.u66390701b34e88b423504063f6edd622.cache
+
+```
+Building prefix dict from E:\Jack Program\Python\Word2Vec\zake7749\word2vec-tutorial-master\jieba_dict\dict.txt.big ...
+2018-04-12 19:09:04,746 : DEBUG : Building prefix dict from E:\Jack Program\Python\Word2Vec\zake7749\word2vec-tutorial-master\jieba_dict\dict.txt.big ...
+Dumping model to file cache C:\Users\user\AppData\Local\Temp\jieba.u66390701b34e88b423504063f6edd622.cache
+2018-04-12 19:09:06,163 : DEBUG : Dumping model to file cache C:\Users\user\AppData\Local\Temp\jieba.u66390701b34e88b423504063f6edd622.cache
+Loading model cost 1.553 seconds.
+2018-04-12 19:09:06,307 : DEBUG : Loading model cost 1.553 seconds.
+Prefix dict has been built succesfully.
+2018-04-12 19:09:06,311 : DEBUG : Prefix dict has been built succesfully.
+2018-04-12 19:11:24,579 : INFO : 已完成前 10000 行的斷詞
+2018-04-12 19:13:10,795 : INFO : 已完成前 20000 行的斷詞
+2018-04-12 19:14:45,776 : INFO : 已完成前 30000 行的斷詞
+2018-04-12 19:16:10,655 : INFO : 已完成前 40000 行的斷詞
+2018-04-12 19:17:33,636 : INFO : 已完成前 50000 行的斷詞
+2018-04-12 19:18:53,623 : INFO : 已完成前 60000 行的斷詞
+2018-04-12 19:20:14,800 : INFO : 已完成前 70000 行的斷詞
+2018-04-12 19:21:35,767 : INFO : 已完成前 80000 行的斷詞
+2018-04-12 19:22:48,834 : INFO : 已完成前 90000 行的斷詞
+2018-04-12 19:24:04,740 : INFO : 已完成前 100000 行的斷詞
+2018-04-12 19:25:14,925 : INFO : 已完成前 110000 行的斷詞
+2018-04-12 19:26:19,368 : INFO : 已完成前 120000 行的斷詞
+2018-04-12 19:27:33,116 : INFO : 已完成前 130000 行的斷詞
+```
+![image](https://github.com/Jackmyth/TensorFlowAI/blob/master/pic/Word2vec/2.jpg)
