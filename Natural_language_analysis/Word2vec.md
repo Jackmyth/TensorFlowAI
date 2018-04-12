@@ -16,7 +16,7 @@ python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
 
 ## [OpenCC軟體](https://bintray.com/package/files/byvoid/opencc/OpenCC)
 
-## [opencc文字轉換]https://xubodoublelife.blogspot.tw/2017/08/google-wored2vec.html
+## [opencc文字轉換](https://xubodoublelife.blogspot.tw/2017/08/google-wored2vec.html)
 
 cmd 到opencc軟體目錄下
 
