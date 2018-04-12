@@ -14,6 +14,10 @@ hanziconv 0.3.2
 https://pypi.python.org/pypi/hanziconv
 
 
-opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
+# 將文字資料轉成文字檔
+python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
+
 
 ## [OpenCC軟體](https://bintray.com/package/files/byvoid/opencc/OpenCC)
+
+opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
