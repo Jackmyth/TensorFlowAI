@@ -71,6 +71,10 @@ Dumping model to file cache
 
 C:\Users\user\AppData\Local\Temp\jieba.u66390701b34e88b423504063f6edd622.cache
 
+cache
+## [cache解析](https://www.solvusoft.com/zh-tw/file-extensions/file-extension-cache/)
+![image](https://github.com/Jackmyth/TensorFlowAI/blob/master/pic/Word2vec/4.jpg)
+
 ```
 Building prefix dict from E:\Jack Program\Python\Word2Vec\zake7749\word2vec-tutorial-master\jieba_dict\dict.txt.big ...
 2018-04-12 19:09:04,746 : DEBUG : Building prefix dict from E:\Jack Program\Python\Word2Vec\zake7749\word2vec-tutorial-master\jieba_dict\dict.txt.big ...
