@@ -24,9 +24,11 @@ python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
 
 cmd 到opencc軟體目錄下
 
+簡體中文轉繁體中文，大概十分鐘就可以簡轉繁體字OK
+
 opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
 
 ![image](https://github.com/Jackmyth/TensorFlowAI/blob/master/pic/Word2vec/1.jpg)
 
-大概十分鐘就可以簡轉繁體字OK
+
 
