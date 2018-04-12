@@ -1,5 +1,5 @@
-# Word2vec研究
+# jieba研究
 
-## [jiebass](https://github.com/fxsjy/jieba)
+## [jieba教學](https://github.com/fxsjy/jieba)
 
-## [OpenCC軟體](https://bintray.com/package/files/byvoid/opencc/OpenCC)
+
