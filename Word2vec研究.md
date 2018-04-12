@@ -15,3 +15,5 @@ https://pypi.python.org/pypi/hanziconv
 
 
 opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
+
+## [OpenCC軟體](https://bintray.com/package/files/byvoid/opencc/OpenCC)
