@@ -12,3 +12,6 @@ http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/
 hanziconv 0.3.2
 
 https://pypi.python.org/pypi/hanziconv
+
+
+opencc -i wiki_texts.txt -o wiki_zh_tw.txt -c s2tw.json
