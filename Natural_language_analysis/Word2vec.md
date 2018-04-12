@@ -9,10 +9,6 @@ https://www.jianshu.com/p/ec27062bd453
 
 http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/
 
-hanziconv 0.3.2
-
-https://pypi.python.org/pypi/hanziconv
-
 
 # 將文字資料轉成文字檔
 python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
