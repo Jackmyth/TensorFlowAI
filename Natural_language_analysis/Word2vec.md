@@ -333,3 +333,16 @@ dream,0.4343990087509155
 初衷,0.41443753242492676
 心中,0.414115846157074
 ```
+
+error
+ BeautifulSoup(YOUR_MARKUP})
+
+to this:
+
+ BeautifulSoup(YOUR_MARKUP, "lxml")
+
+  markup_type=markup_type))
+  
+#改成這樣就可以產生word2vec_gensim模組
+news_text = BeautifulSoup(news, "lxml").get_text()
+
