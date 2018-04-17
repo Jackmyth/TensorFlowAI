@@ -2,6 +2,9 @@
 
 ## [自然語言處理入門- Word2vec小實作](https://medium.com/pyladies-taiwan/%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E5%85%A5%E9%96%80-word2vec%E5%B0%8F%E5%AF%A6%E4%BD%9C-f8832d9677c8)
 
+## [自然語言處理：使用word2vec提取詞向量](https://kknews.cc/tech/zmzqj33.html)
+
+## [機器學習系列-word2vec篇](https://kknews.cc/zh-tw/tech/yankqgn.html)
 
 利用Python实现wiki中文语料的word2vec模型构建
 
