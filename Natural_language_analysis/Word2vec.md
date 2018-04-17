@@ -6,6 +6,8 @@
 
 ## [機器學習系列-word2vec篇](https://kknews.cc/zh-tw/tech/yankqgn.html)
 
+## [文本深度表示模型—word2vec&doc2vec詞向量模型](https://kknews.cc/tech/v9k4l2.html)
+
 利用Python实现wiki中文语料的word2vec模型构建
 
 https://www.jianshu.com/p/ec27062bd453
