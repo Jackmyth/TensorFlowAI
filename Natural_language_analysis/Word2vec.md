@@ -31,6 +31,8 @@ https://kknews.cc/tech/zmzqj33.html
 
 2.同詞的繁體字、簡體字用word2vec轉成向量，會形成兩個向量。
 
+3.文字list轉成數字list長短不一致，有的數字list長度為58、有的數字list長度為128，
+之後數字list轉向量list需固定長度，做深度學習比較好訓練。
 
 # 將文字資料轉成文字檔
 python3 wiki_to_txt.py zhwiki-20180401-pages-articles-multistream.xml.bz2
