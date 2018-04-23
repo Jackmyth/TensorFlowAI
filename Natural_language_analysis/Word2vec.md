@@ -16,7 +16,7 @@ http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/
 
 https://kknews.cc/tech/zmzqj33.html
 
-論文重點：
+## 論文重點：
 
 1.word2vec 是 Google 的一個開源工具，能夠根據輸入的「詞的集合」計算出詞與詞之間的距離。
 它將「字詞」轉換成「向量」形式，對文字內容的處理簡化為向量空間中的向量運算，
@@ -29,11 +29,17 @@ https://kknews.cc/tech/zmzqj33.html
 ，就可以解決向量重複的問題。
 
 4.用jieba做中文分词，有三種分詞模式:
+
     1. 精確模式 ：將句子最精確地切開，叫適合文本分析。
+    
         寫法:words = jieba.cut(content, cut_all=False)
+	
     2.全模式：把句子中所有的可以成詞的詞語都掃描出來, 速度快。
+    
         寫法:words = jieba.cut(content, cut_all=True)
+	
     3.搜索引勤模式：在精確模式的基礎上對長詞再次切分，提高召回率，適合用於搜尋引擎分詞
+    
         寫法:jieba.cut_for_search(Content)
 
 5.文字list轉成數字list會長短不一致，有的數字list長度為58、有的數字list長度為128，
